@@ -1,0 +1,25 @@
+C:\Users\memlol\AppData\Local\Temporary Projects\TestSerialPort\bin\Debug\TestSerialPort.exe
+C:\Users\memlol\AppData\Local\Temporary Projects\TestSerialPort\bin\Debug\TestSerialPort.pdb
+C:\Users\memlol\AppData\Local\Temporary Projects\TestSerialPort\obj\x86\Debug\TestSerialPort.Form1.resources
+C:\Users\memlol\AppData\Local\Temporary Projects\TestSerialPort\obj\x86\Debug\TestSerialPort.Properties.Resources.resources
+C:\Users\memlol\AppData\Local\Temporary Projects\TestSerialPort\obj\x86\Debug\TestSerialPort.csproj.GenerateResource.Cache
+C:\Users\memlol\AppData\Local\Temporary Projects\TestSerialPort\obj\x86\Debug\TestSerialPort.exe
+C:\Users\memlol\AppData\Local\Temporary Projects\TestSerialPort\obj\x86\Debug\TestSerialPort.pdb
+C:\Users\memlol\documents\visual studio 2010\Projects\TestSerialPort\TestSerialPort\obj\x86\Debug\TestSerialPort.exe
+C:\Users\memlol\documents\visual studio 2010\Projects\TestSerialPort\TestSerialPort\obj\x86\Debug\TestSerialPort.pdb
+C:\Users\memlol\documents\visual studio 2010\Projects\TestSerialPort\TestSerialPort\bin\Debug\TestSerialPort.exe
+C:\Users\memlol\documents\visual studio 2010\Projects\TestSerialPort\TestSerialPort\bin\Debug\TestSerialPort.pdb
+C:\Users\memlol\documents\visual studio 2010\Projects\TestSerialPort\TestSerialPort\obj\x86\Debug\TestSerialPort.Properties.Resources.resources
+C:\Users\memlol\documents\visual studio 2010\Projects\TestSerialPort\TestSerialPort\obj\x86\Debug\TestSerialPort.csproj.GenerateResource.Cache
+C:\Users\memlol\documents\visual studio 2010\Projects\TestSerialPort\TestSerialPort\obj\x86\Debug\TestSerialPort.csprojResolveAssemblyReference.cache
+C:\Users\memlol\documents\visual studio 2010\Projects\TestSerialPort\TestSerialPort\obj\x86\Debug\TestSerialPort.Sub1GHz.resources
+\\vservfs\Сервер ГК СНАБЖЕНИЕ\Личные папки\ГК Лаборатория\babahin\Documents\Visual Studio 2015\Projects\TestSerialPort\TestSerialPort\TestSerialPort\obj\x86\Debug\TestSerialPort.exe
+\\vservfs\Сервер ГК СНАБЖЕНИЕ\Личные папки\ГК Лаборатория\babahin\Documents\Visual Studio 2015\Projects\TestSerialPort\TestSerialPort\TestSerialPort\obj\x86\Debug\TestSerialPort.pdb
+\\vservfs\Сервер ГК СНАБЖЕНИЕ\Личные папки\ГК Лаборатория\babahin\Documents\Visual Studio 2015\Projects\TestSerialPort\TestSerialPort\TestSerialPort\bin\Debug\TestSerialPort.exe
+\\vservfs\Сервер ГК СНАБЖЕНИЕ\Личные папки\ГК Лаборатория\babahin\Documents\Visual Studio 2015\Projects\TestSerialPort\TestSerialPort\TestSerialPort\bin\Debug\TestSerialPort.pdb
+\\vservfs\Сервер ГК СНАБЖЕНИЕ\Личные папки\ГК Лаборатория\babahin\Documents\Visual Studio 2015\Projects\TestSerialPort\TestSerialPort\TestSerialPort\obj\x86\Debug\TestSerialPort.csprojResolveAssemblyReference.cache
+\\vservfs\Сервер ГК СНАБЖЕНИЕ\Личные папки\ГК Лаборатория\babahin\Documents\Visual Studio 2015\Projects\TestSerialPort\TestSerialPort\TestSerialPort\obj\x86\Debug\TestSerialPort.Sub1GHz.resources
+\\vservfs\Сервер ГК СНАБЖЕНИЕ\Личные папки\ГК Лаборатория\babahin\Documents\Visual Studio 2015\Projects\TestSerialPort\TestSerialPort\TestSerialPort\obj\x86\Debug\TestSerialPort.Properties.Resources.resources
+\\vservfs\Сервер ГК СНАБЖЕНИЕ\Личные папки\ГК Лаборатория\babahin\Documents\Visual Studio 2015\Projects\TestSerialPort\TestSerialPort\TestSerialPort\obj\x86\Debug\TestSerialPort.csproj.GenerateResource.Cache
+\\vservfs\Сервер ГК СНАБЖЕНИЕ\Личные папки\ГК Лаборатория\babahin\Documents\visual studio 2015\Projects\TestSerialPort\TestSerialPort\obj\x86\Debug\TestSerialPort.exe
+\\vservfs\Сервер ГК СНАБЖЕНИЕ\Личные папки\ГК Лаборатория\babahin\Documents\visual studio 2015\Projects\TestSerialPort\TestSerialPort\obj\x86\Debug\TestSerialPort.pdb
